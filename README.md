@@ -27,8 +27,6 @@ pip install numpy matplotlib h5py scipy pillow jupyter
 ## Project Structure
 ```
 ├── Logistic_Regression_with_a_Neural_Network_mindset-2.ipynb
-├── lr_utils.py
-├── public_tests.py
 └── README.md
 ```
 
