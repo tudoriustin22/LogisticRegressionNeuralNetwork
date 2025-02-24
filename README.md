@@ -110,5 +110,3 @@ jupyter notebook
 This project is part of the DeepLearning.AI coursework and follows their terms of use.
 
 ---
-
-*Note: This implementation is for educational purposes and demonstrates basic neural network concepts.*
